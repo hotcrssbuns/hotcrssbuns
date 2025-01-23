@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @hotcrssbuns. I'm learning to code.
+- 👀 I’m interested in music production.
+- 🌱 I’m currently learning everything
+- 💞️ I’m looking to collaborate on something
+- 📫 How to reach me: githb
+- 😄 Pronouns: he/him, they/them
+- ⚡ Fun fact: i don't know what im doing
