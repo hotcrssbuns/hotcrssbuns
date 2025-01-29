@@ -2,6 +2,6 @@
 - 👀 I’m interested in music production.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on something
-- 📫 How to reach me: githb
+- 📫 How to reach me: github
 - 😄 Pronouns: he/him, they/them
 - ⚡ Fun fact: i don't know what im doing
