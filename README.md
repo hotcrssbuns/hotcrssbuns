@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hotcrssbuns. I'm learning to code.
-- 👀 I’m interested in music production.
+- 👀 I’m interested in python.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me: github
