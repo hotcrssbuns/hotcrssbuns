@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hotcrssbuns. I'm learning to code.
-- 👀 I’m interested in python.
+- 👀 I’m interested in game development and web dev.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me: github
 - 😄 Pronouns: he/him, they/them
-- ⚡ Fun fact: i don't know what im doing
+- ⚡ Fun fact: I don't know what I'm doing
