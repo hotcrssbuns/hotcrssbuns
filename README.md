@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me: github
 - 😄 Pronouns: he/him, they/them
-- ⚡ Fun fact: I don't know what I'm doing
+- ⚡ Fun fact: There is no fun fact
